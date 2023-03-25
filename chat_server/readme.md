@@ -6,4 +6,4 @@
 - Теперь у нас появилось два окна внизу.
 - Вводим имя в каждом из окон и начинаем переписку
 - Приятного пользования :)
-()[https://github.com/mperestoronin/Java_Seminar_HW/blob/main/chat_server/java_chat.png]
+![](https://github.com/mperestoronin/Java_Seminar_HW/blob/main/chat_server/java_chat.png)
